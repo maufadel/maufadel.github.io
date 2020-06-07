@@ -63,13 +63,10 @@ education:
       time: 2016 - 2018
       major: Data Science
       degree: M.Sc.
-      details:
-
     - university: Universidad Tecnológica Nacional (Argentina)
       time: 2009 - 2014
       major: Information System's Engineer
       degree: Engineer
-      details: 
 
 experiences:
   display: true
@@ -100,7 +97,6 @@ experiences:
         Developing new features and contributing to the improvement of different VoIP iOS apps of Media5 Corp.
 Testing software to identify and fix problems for Media5 Corp. projects.
 Documenting new features as well as maintaining the existing documentation.
-
     - role: Software Developer Intern
       time: November 2013 - November 2014
       company: BizIT Global S.A.
@@ -130,8 +126,6 @@ projects:
 publications:
   display: true
   title: Publications at Conferences and Journals
-  intro: |
-    
   items:
     - title: Tutor4RL: Guiding Reinforcement Learning with External Knowledge
       authors: Mauricio Fadel Argerich, Jonathan Fürst, Bin Cheng
