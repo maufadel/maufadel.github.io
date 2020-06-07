@@ -3,7 +3,7 @@
 
     {% if contact.email %}
     <li class="email"><i class="fas fa-envelope"></i>
-        <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
+        {{ contact.email }}
     </li>
     {% endif %}
 
