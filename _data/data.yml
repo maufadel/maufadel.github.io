@@ -63,12 +63,12 @@ education:
     - university: Sapienza - Università di Roma
       time: 2016 - 2018
       major: "M.Sc. Data Science. GPA: 110 cum laude."
-      degree: Master of Science
+      degree: Rome, Italy
       image: sapienza.png
     - university: Universidad Tecnológica Nacional (Argentina)
       time: 2009 - 2014
-      major: Information Systems Engineer
-      degree: Engineer
+      major: "Information Systems Engineer. GPA: 7.98"
+      degree: Córdoba, Argentina
       image: utn.png
 
 experiences:
@@ -83,7 +83,9 @@ experiences:
       location: Heidelberg, Germany
       details: |
         Developed a novel approach for the use of RL for system’s configuration and applications adaptation, which has led to the application for an international patent, two publications and its implementation in a Horizon 2020 EU project. 
+        
         Collaborated in the development of other publications and patents related to the application of data programming to IoT data and the development of self-adaptive applications for edge computing.
+        
         Participated in the development of other EU project proposals as well as internal research proposals.
         
     - role: Data Scientist Intern
@@ -97,21 +99,25 @@ experiences:
     - role: Software Engineer
       time: November 2014 - August 2016
       company: BizIT Global S.A.
-      location: Cordoba, Argentina
+      location: Córdoba, Argentina
       image: bizit.png
       details: |
         Developing new features and contributing to the improvement of different VoIP iOS apps of Media5 Corp.
+        
         Testing software to identify and fix problems for Media5 Corp. projects.
+        
         Documenting new features as well as maintaining the existing documentation.
         
     - role: Software Developer Intern
       time: November 2013 - November 2014
-      company: Fabrica Argentina de Aviones
-      location: Cordoba, Argentina
+      company: Fabrica Argentina de Aviones S.A.
+      location: Córdoba, Argentina
       image: fadea.png
       details: |
         Design, implementation, testing, user's training and issue fixing for the Corrective Action Requests System.
+        
         Implementation of SyncroDB System (to keep data consistency throughout different DBMS). 
+        
         Design, implementation and testing of the Personnel Attendance System.
 
 projects:
@@ -136,24 +142,28 @@ publications:
   title: Publications at Conferences and Journals
   items:
     - title: "Tutor4RL: Guiding Reinforcement Learning with External Knowledge"
-      authors: Mauricio Fadel Argerich, Jonathan Fürst, Bin Cheng
-      conference: AAAI Spring Symposium - Combining Machine Learning and Knowledge Engineering in Practice (AAAI-MAKE) 2020
+      authors: M. Fadel Argerich, J. Fürst, B. Cheng (2020)
+      conference: AAAI Spring Symposium 2020 - Combining Machine Learning and Knowledge Engineering in Practice (AAAI-MAKE)
       link: "http://ceur-ws.org/Vol-2600/short9.pdf"
+    - title: "Applying Weak Supervision to Mobile Sensor Data: Experiences with Transport Mode Detection"
+      authors: J. Fürst, M. Fadel Argerich, K. Shankari, G. Solmaz, B. Cheng. (2020)
+      conference: AAAI-20 Workshop on Artificial Intelligence of Things.
+      link:
     - title: Reinforcement Learning Based Orchestration for Elastic Services
-      authors: Mauricio Fadel Argerich, Bin Cheng, Jonathan Fürst
-      conference: IEEE 5th World Forum on Internet of Things 2019
+      authors: M. Fadel Argerich, B. Cheng, J. Fürst (2019)
+      conference: 2019 IEEE 5th World Forum on Internet of Things
       link: "https://arxiv.org/pdf/1904.12676"
     - title: Elastic Services for Edge Computing
-      authors: Jonathan Fürst, Mauricio Fadel Argerich, Bin Cheng, Apostolos Papageorgiou
-      conference: 14th International Conference on Network and Service Management (CNSM) 2018
+      authors: J. Fürst, M. Fadel Argerich, B. Cheng, A. Papageorgiou (2018)
+      conference: 2018 14th International Conference on Network and Service Management (CNSM)
       link: "https://ieeexplore.ieee.org/abstract/document/8584964/"
     - title: Towards adaptive actors for scalable iot applications at the edge
-      authors: Jonathan Fürst, Mauricio Fadel Argerich, Kaifei Chen, Ernö Kovacs
+      authors: J. Fürst, M. Fadel Argerich, K. Chen, E. Kovacs (2018)
       conference: Open Journal of Internet Of Things (OJIOT) - Presented at VLIoT 2018
       link: "https://www.ronpub.com/ojiot/ojiot_2018v4i1n06_fuerst.html"
     - title: Learning based Adaptation for Fog and Edge Computing Applications and Services
-      authors: Mauricio Fadel Argerich
-      conference: Master Thesis 2018
+      authors: M. Fadel Argerich (2018)
+      conference: Master's Thesis
       link: "http://ichatz.me/thesis/msc-datascience/2018-fadel.pdf"
 
 skills:

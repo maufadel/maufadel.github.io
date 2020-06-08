@@ -1,12 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto|Playfair+Display:400,600,700,900,Italic&display=swap");
+
 // Define defaults for each variable.
-$base-font-family: "Roboto", sans-serif !default;
+$base-font-family: "Helvetica Neue", sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 
 $small-font-size:  $base-font-size * 0.875 !default; // 14px
 $middle-font-size: $base-font-size * 1.125 !default; // 18px
 $large-font-size:  $base-font-size * 1.25  !default; // 20px
-$huge-font-size:   $base-font-size * 2     !default; // 32px
+$huge-font-size:   $base-font-size * 2.5     !default; // 32px
 
 $base-line-height: 1.5 !default;
 
@@ -17,11 +19,14 @@ $content-width:    1000px !default;
 
 // Default color settings
 $text-color:            #333333;
-$text-color-secondary:  #3F4650;
-$text-grey:             #97AAC3;
+$text-color-secondary:  #555555;
+$text-grey:             #555555;
 $background-color:      #f5f5f5;
 $wrapper-color:         #ffffff;
 $heart:                 #fb866a;
+$theme_color:           #222222;
+$a-color:               #0e2e96;
+$background-text:       #FFFFFF;
 
 @import
     "mixins",
