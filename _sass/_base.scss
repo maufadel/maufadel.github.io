@@ -85,6 +85,19 @@ p {
         border: 0px solid $wrapper-color;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
+    
+    .logo {
+        float: left;
+        width: 52px;
+        height: 52px;
+        object-fit: contain;
+        padding-left: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        padding-right: 10px;
+        padding-left: 0px;
+        border: 0px solid $wrapper-color;
+    }
 
     // .item {
     //     padding-bottom: $spacing-unit / 4;

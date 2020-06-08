@@ -8,6 +8,11 @@
 
     {% for graduation in education.items %}
     <div class="item">
+    	{% if graduation.image %}
+    	<div class="avatar-container">
+        	<img class="logo" src="{{ site.baseurl }}/assets/images/{{ graduation.image }}" alt="logo">
+    	</div>
+    	{% endif %}
 
         <div class="upper-row">
             <div class="university">{{ graduation.university }}</div>
@@ -24,7 +29,6 @@
             {{ graduation.details | markdownify }}
         </div>
         {% endif %}
-
     </div>
     {% endfor %}
 
