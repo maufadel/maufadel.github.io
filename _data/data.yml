@@ -75,32 +75,20 @@ experiences:
   display: true
   title: Work Experience
   items:
-    - role: Research Scientist - prev. Research Associate (Oct 2018 - Jun 2020) and Research Intern (Mar 2018 - Sep 2018)
-      time: July 2020 - Current
+    - role: Research Scientist
+      time: March 2018 - Current
       company: NEC Laboratories Europe GmbH
       tag:
       image: nec.png
       location: Heidelberg, Germany
       details: |
-        Developed a novel approach for the use of RL for system’s configuration and applications adaptation, which has led to the application for an international patent, two publications and its implementation in a Horizon 2020 EU project. 
+        Developed a novel approach for the use of RL for system’s configuration and applications adaptation, which has led to the application for an international patent, two publications and its implementation in a Horizon 2020 EU project.
         
         Collaborated in the development of other publications and patents related to the application of data programming to IoT data and the development of self-adaptive applications for edge computing.
         
         Participated in the development of other EU project proposals as well as internal research proposals.
-    - role: Research Associate
-      time: October 2018 - June 2020
-      company: NEC Laboratories Europe GmbH
-      tag:
-      image: nec.png
-      location: Heidelberg, Germany
-      details:
-    - role: Research Intern
-      time: March 2018 - September 2018
-      company: NEC Laboratories Europe GmbH
-      tag:
-      image: nec.png
-      location: Heidelberg, Germany
-      details:
+        
+        Previous roles at NEC: Research Associate (October 2018 - June 2020) and Research Intern (March 2018 - September 2018).
       
     - role: Data Scientist Intern
       time: June 2017 - September 2017
