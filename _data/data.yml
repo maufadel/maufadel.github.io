@@ -142,12 +142,12 @@ projects:
     - name: How to Access Stocks Market Data for Machine Learning on Python
       link: "https://towardsdatascience.com/how-to-access-stocks-market-data-for-machine-learning-on-python-c69db51e7a0d?source=friends_link&sk=68e39768debb5b8074d619d03da0be73"
       details: |
-      If you want to use Machine Learning for trading stocks, you will need to create a dataset of stock markets data. Find out how to easily do it, with ready-to-use code.
+        If you want to use Machine Learning for trading stocks, you will need to create a dataset of stock markets data. Find out how to easily do it, with ready-to-use code.
         
     - name: Tutoring Reinforcement Learning
       link: "https://towardsdatascience.com/tutoring-reinforcement-learning-a52186306d6d?source=friends_link&sk=9a1939942f4e37e9166fd46d5e9b1a14"
       details: |
-      Reinforcement Learning agents start from scratch, knowing nothing and learning by experience, which is effective but slow. Could we give them some hints to get them started?
+        Reinforcement Learning agents start from scratch, knowing nothing and learning by experience, which is effective but slow. Could we give them some hints to get them started?
         
     - name: 5 Frameworks for Reinforcement Learning on Python
       link: "https://towardsdatascience.com/5-frameworks-for-reinforcement-learning-on-python-1447fede2f18?source=friends_link&sk=4d38d426b5d54516989ae59ba36b32f5"
