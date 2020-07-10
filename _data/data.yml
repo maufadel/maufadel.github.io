@@ -130,52 +130,52 @@ projects:
 
   items:
     - name: Reinforcement Learning with TensorFlow Agents — Tutorial
-      link: https://towardsdatascience.com/reinforcement-learning-with-tensorflow-agents-tutorial-4ac7fa858728?source=friends_link&sk=a018b532d6678dc62e76ed2a7ba84a40
+      link: "https://towardsdatascience.com/reinforcement-learning-with-tensorflow-agents-tutorial-4ac7fa858728?source=friends_link&sk=a018b532d6678dc62e76ed2a7ba84a40"
       details: |
         Try TF-Agents for RL with this simple tutorial, published as a Google colab notebook so you can run it directly from your browser.
 
     - name: 10+ Free Resources to Download Datasets for Machine Learning
-      link: https://towardsdatascience.com/10-free-resources-to-download-datasets-for-machine-learning-2acfff33822?source=friends_link&sk=5d90047c21548eab5bb1b66eb13aa89e
+      link: "https://towardsdatascience.com/10-free-resources-to-download-datasets-for-machine-learning-2acfff33822?source=friends_link&sk=5d90047c21548eab5bb1b66eb13aa89e"
       details: |
         A list of online resources to search and download datasets for your Machine Learning and AI projects
         
     - name: How to Access Stocks Market Data for Machine Learning on Python
-      link: https://towardsdatascience.com/how-to-access-stocks-market-data-for-machine-learning-on-python-c69db51e7a0d?source=friends_link&sk=68e39768debb5b8074d619d03da0be73
+      link: "https://towardsdatascience.com/how-to-access-stocks-market-data-for-machine-learning-on-python-c69db51e7a0d?source=friends_link&sk=68e39768debb5b8074d619d03da0be73"
       details: |
       If you want to use Machine Learning for trading stocks, you will need to create a dataset of stock markets data. Find out how to easily do it, with ready-to-use code.
         
     - name: Tutoring Reinforcement Learning
-      link: https://towardsdatascience.com/tutoring-reinforcement-learning-a52186306d6d?source=friends_link&sk=9a1939942f4e37e9166fd46d5e9b1a14
+      link: "https://towardsdatascience.com/tutoring-reinforcement-learning-a52186306d6d?source=friends_link&sk=9a1939942f4e37e9166fd46d5e9b1a14"
       details: |
       Reinforcement Learning agents start from scratch, knowing nothing and learning by experience, which is effective but slow. Could we give them some hints to get them started?
         
     - name: 5 Frameworks for Reinforcement Learning on Python
-      link: https://towardsdatascience.com/5-frameworks-for-reinforcement-learning-on-python-1447fede2f18?source=friends_link&sk=4d38d426b5d54516989ae59ba36b32f5
+      link: "https://towardsdatascience.com/5-frameworks-for-reinforcement-learning-on-python-1447fede2f18?source=friends_link&sk=4d38d426b5d54516989ae59ba36b32f5"
       details: |
         Programming your own Reinforcement Learning implementation from scratch can be a lot of work, but you don’t need to do that. There are lots of great, easy and free frameworks to get you started in few minutes.
         
     - name: How is Reinforcement Learning used in Business?
-      link: https://towardsdatascience.com/how-is-reinforcement-learning-used-in-business-71592558c93f?source=friends_link&sk=5a35204ba6d6193500a55faee5ef9738
+      link: "https://towardsdatascience.com/how-is-reinforcement-learning-used-in-business-71592558c93f?source=friends_link&sk=5a35204ba6d6193500a55faee5ef9738"
       details: |
         Reinforcement Learning has proved it can achieve better results than humans in different games in recent years. But can RL also be used in businesses in the real world?
         
     - name: Entropy Regularization in Reinforcement Learning
-      link: https://towardsdatascience.com/entropy-regularization-in-reinforcement-learning-a6fa6d7598df?source=friends_link&sk=207e4d1386dd20a5977b717cdb3651a6
+      link: "https://towardsdatascience.com/entropy-regularization-in-reinforcement-learning-a6fa6d7598df?source=friends_link&sk=207e4d1386dd20a5977b717cdb3651a6"
       details: |
         In our everyday language, we commonly use the term “entropy” to refer to the lack of order or predictability of a system (for example, the universe.) In Reinforcement Learning (RL), the term is used in a similar fashion: in RL, entropy refers to the predictability of the actions of an agent.
         
     - name: Reinforcement Learning for everyone
-      link: https://towardsdatascience.com/reinforcement-learning-for-everyone-9c1163f61440?source=friends_link&sk=eed2921cb220bba95d6f83d3c1390ff5
+      link: "https://towardsdatascience.com/reinforcement-learning-for-everyone-9c1163f61440?source=friends_link&sk=eed2921cb220bba95d6f83d3c1390ff5"
       details: |
         RL has become popular in the AI community, but most people still don’t know what it is about. Come and read, no matter your background!
       
     - name: Make smarter agents with Hierarchical Reinforcement Learning
-      link: https://towardsdatascience.com/hierarchical-reinforcement-learning-a2cca9b76097?source=friends_link&sk=eb1ce275d146fda84b92529a5c4c2238
+      link: "https://towardsdatascience.com/hierarchical-reinforcement-learning-a2cca9b76097?source=friends_link&sk=eb1ce275d146fda84b92529a5c4c2238"
       details: |
         An introduction to Hierarchical Reinforcement Learning and an overview of different hierarchical approaches.
         
     - name: When to use Reinforcement Learning (and when not to)
-      link: https://medium.com/swlh/when-to-use-reinforcement-learning-and-when-not-to-919557dd34a?source=friends_link&sk=a52a868feed284cffb7cb8dec7d84751
+      link: "https://medium.com/swlh/when-to-use-reinforcement-learning-and-when-not-to-919557dd34a?source=friends_link&sk=a52a868feed284cffb7cb8dec7d84751"
       details: |
         What to consider to decide if Reinforcement Learning is the right approach to solve your problem.
 
