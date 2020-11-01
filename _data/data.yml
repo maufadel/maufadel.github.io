@@ -50,7 +50,7 @@ profile:
   display: True
   title: Profile
   details: |
-    My goal is to advance and apply the state-of-the-art of machine learning to solve problems of our society. I have more than 5 years of experience in the tech industry, having worked in research of ML/AI and software engineering. In the field of research, I have developed multiple publications and patents related to ML/AI methods and their application to the IoT. In my experience in software engineering, I have developed a broad set of skills with multiple programming languages, DB systems and frameworks, that allow me to implement prototypes and production-ready systems. I also often write about ML, and in particular Reinforcement Learning, on Medium.
+    My goal is to advance and apply the state-of-the-art of machine learning to solve problems of our society. I have more than 5 years of experience in the tech industry, having worked in research of ML/AI and software engineering. In the field of research, I have developed multiple publications and patents related to ML/AI methods and their application to the IoT. In my experience in software engineering, I have developed a broad set of skills with multiple programming languages, DB systems and frameworks, that allow me to implement prototypes and production-ready systems.
 
 education:
   display: true
