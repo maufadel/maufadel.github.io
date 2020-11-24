@@ -119,12 +119,12 @@ experiences:
         Design, implementation and testing of the Personnel Attendance System.
 
     - role: Research Student
-        time: January 2013 - March 2013
-        company: University of Auckland
-        location: Auckland, New Zealand
-        image: uofa.png
-        details: |
-          Developed a novel algorithm capable of determining anchors in Tweets forautomatic link generation.
+      time: January 2013 - March 2013
+      company: University of Auckland
+      location: Auckland, New Zealand
+      image: uofa.png
+      details: |
+        Developed a novel algorithm capable of determining anchors in Tweets forautomatic link generation.
 
 projects:
   display: true
@@ -139,19 +139,19 @@ projects:
         The Adaptive Applications Simulator provides a fast way to implement and test applications that use an adaptive logic to adapt to the current execution context in order to deliver high performance while complying with their requirements'.
 
     - name: SIR on Gnutella - Github repository
-        link: "https://github.com/maufadel/SIR_on_Gnutella"
-        details: |
-          Simulation of a Susceptible-Infected-Recovered Epidemic process on a Gnutella p2p network.
+      link: "https://github.com/maufadel/SIR_on_Gnutella"
+      details: |
+        Simulation of a Susceptible-Infected-Recovered Epidemic process on a Gnutella p2p network.
 
     - name: Filtred - iOS Application
-        link: "https://appadvice.com/app/filtred-photo-filters/1033030045"
-        details: |
-          A photo editing application to create your own photo filters. No longer available on App Store.
+      link: "https://appadvice.com/app/filtred-photo-filters/1033030045"
+      details: |
+        A photo editing application to create your own photo filters. No longer available on App Store.
 
     - name: Fixture 2014 - iOS Application
-        link: "https://github.com/maufadel/SIR_on_Gnutella"
-        details: |
-          A World Cup Scorer to access live results from matches and the matches agenda. It reached #1 spot in Sports category of the App Store in Argentina and Uruguay. No longer available on App Store.
+      link: "https://github.com/maufadel/SIR_on_Gnutella"
+      details: |
+        A World Cup Scorer to access live results from matches and the matches agenda. It reached #1 spot in Sports category of the App Store in Argentina and Uruguay. No longer available on App Store.
 
 articles:
   display: true
