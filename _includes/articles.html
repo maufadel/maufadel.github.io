@@ -1,0 +1,36 @@
+{% assign projects = data.projects %}
+{% if projects and projects.display %}
+<section class="section projects-section">
+
+    <div class="section-title">
+        {{ projects.title }}
+    </div>
+
+    {% if articles.intro %}
+    <div class="intro">
+        <p>{{ articles.intro | markdownify }}</p>
+    </div>
+    {% endif %}
+
+    {% for article in articles.items %}
+    <div class="item">
+        {% if article.name %}
+        <p class="project-name">
+            {% if article.link %}
+            <a href="{{ project.link }}" target="_blank">{{ article.name }}</a>
+            {% else %}
+            {{ article.name }}
+            {% endif %}
+        </p>
+
+        {% if article.details %}
+        <div class="details">
+            {{ article.details | markdownify }}
+        </div>
+        {% endif %}
+        {% endif %}
+    </div>
+    {% endfor %}
+
+</section>
+{% endif %}
