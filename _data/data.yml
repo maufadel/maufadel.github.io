@@ -1,6 +1,6 @@
 intro:
   name: Mauricio Fadel Argerich
-  title: Data Scientist | Informations Systems Engineer
+  title: Research Scientist, AI for IoT | M.Sc. Data Scientist | Informations Systems Engineer
   avatar:
     display: true
     path: profile.png
@@ -71,7 +71,7 @@ experiences:
   display: true
   title: Work Experience
   items:
-    - role: Research Scientist
+    - role: Research Scientist, AI/ML for IoT
       time: March 2018 - Current
       company: NEC Laboratories Europe GmbH
       tag:
