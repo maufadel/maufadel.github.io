@@ -149,7 +149,7 @@ projects:
         A photo editing application to create your own photo filters. No longer available on App Store.
 
     - name: Fixture 2014 - iOS Application
-      link: "https://github.com/maufadel/SIR_on_Gnutella"
+      link: "https://appadvice.com/app/fixture-2014/866218996"
       details: |
         A World Cup Scorer to access live results from matches and the matches agenda. It reached #1 spot in Sports category of the App Store in Argentina and Uruguay. No longer available on App Store.
 
@@ -218,10 +218,14 @@ publications:
       authors: M. Fadel Argerich, J. Fürst, B. Cheng (2020)
       conference: AAAI Spring Symposium 2020 - Combining Machine Learning and Knowledge Engineering in Practice (AAAI-MAKE)
       link: "http://ceur-ws.org/Vol-2600/short9.pdf"
+    - title: "Towards Knowledge Infusion for Robust and Transferable Machine Learning in IoT"
+      authors: J. Fürst, M. Fadel Argerich, B. Cheng, E. Kovacs (2020)
+      conference: Very Large IoT at VLDB 2020
+      link: "https://www.ronpub.com/ojiot/OJIOT_2020v6i1n04_Fuerst.html"
     - title: "Applying Weak Supervision to Mobile Sensor Data: Experiences with Transport Mode Detection"
       authors: J. Fürst, M. Fadel Argerich, K. Shankari, G. Solmaz, B. Cheng. (2020)
       conference: AAAI-20 Workshop on Artificial Intelligence of Things.
-      link:
+      link: https://aiotworkshop.github.io/2020/published/AIoT20-ModeDetect.pdf
     - title: Reinforcement Learning Based Orchestration for Elastic Services
       authors: M. Fadel Argerich, B. Cheng, J. Fürst (2019)
       conference: 2019 IEEE 5th World Forum on Internet of Things
