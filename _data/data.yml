@@ -124,7 +124,7 @@ experiences:
       location: Auckland, New Zealand
       image: uofa.png
       details: |
-        Developed a novel algorithm capable of determining anchors in Tweets forautomatic link generation.
+        Developed a novel algorithm capable of determining anchors in Tweets forautomatic link generation under the supervision of Prof. Gill Dobbie.
 
 projects:
   display: true
