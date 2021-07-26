@@ -71,8 +71,16 @@ experiences:
   display: true
   title: Work Experience
   items:
+    - role: Applied Scientist
+      time: June 2021 - Current
+      company: German Edge Cloud
+      image: gec.png
+      location: Frankfurt, Germany
+      details: |
+        Researching topics related to achieving an autonomous edge.
+
     - role: Research Scientist, AI/ML for IoT
-      time: March 2018 - Current
+      time: March 2018 - May 2021
       company: NEC Laboratories Europe GmbH
       tag:
       image: nec.png
@@ -80,7 +88,7 @@ experiences:
       details: |
         Developed a novel approach for the use of RL for system’s configuration and applications adaptation, which has led to the application for an international patent, two publications and its implementation in a Horizon 2020 EU project.
         
-        Collaborated in the development of other publications and patents related to the application of data programming to IoT data and the development of self-adaptive applications for edge computing.
+        Collaborated in the development of multiple publications and patents related to the application of data programming to IoT data and the development of self-adaptive applications for edge computing.
         
         Participated in the development of other EU project proposals as well as internal research proposals.
         
