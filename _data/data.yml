@@ -30,12 +30,12 @@ languages:
       
     - idiom: Spanish
       level: Native
+
+    - idiom: German
+      level: Intermediate
       
     - idiom: Italian
       level: Fluent
-      
-    - idiom: German
-      level: Basic
 
 interests:
   display: false
@@ -50,12 +50,17 @@ profile:
   display: True
   title: Profile
   details: |
-    My goal is to advance and apply the state-of-the-art of machine learning to solve problems of our society. I have more than 5 years of experience in the tech industry, having worked in research of ML/AI and software engineering. In the field of research, I have developed multiple publications and patents related to ML/AI methods and their application to the IoT. In my experience in software engineering, I have developed a broad set of skills with multiple programming languages, DB systems and frameworks, that allow me to implement prototypes and production-ready systems.
+    With over 7 years of experience in both research and software engineering, I have strong expertise in the application of ML to optimize resource utilization and enhance the performance of Cloud and Edge Computing applications. I have actively participated in several EU-funded research projects as well as industrial projects, publishing their results in highly-esteemed AI and data events such as VLDB and AAAI Symposia.
 
 education:
   display: true
   title: Education
   items:
+    - university: Universidad Politécnica de Madrid
+      time: 2022 - 2025 (expected)
+      major: "PhD in Software, Systems and Computing"
+      degree: Madrid, Spain (remotely)
+      image: upm.png
     - university: Sapienza - Università di Roma
       time: 2016 - 2018
       major: "M.Sc. Data Science. GPA: 110 cum laude."
@@ -77,7 +82,11 @@ experiences:
       image: gec.png
       location: Frankfurt, Germany
       details: |
-        Researching topics related to achieving an autonomous edge.
+        I am currently developing an approach to monitor and optimize the energy consumption of ML-based applications to improve the sustainability of software on cloud and edge infrastructure.
+        
+        I have led the research and development of an approach for anomaly detection on applications' logs using Neural Temporal Point Processes and NLP to detect errors and diagnose their root causes. 
+        
+        Furthermore, I have played a key role in defining a patenting process to protect GEC's intellectual property.
 
     - role: Research Scientist, AI/ML for IoT
       time: March 2018 - May 2021
@@ -168,6 +177,21 @@ articles:
     I often write on Medium about AI and in particular, Reinforcement Learning.
 
   items:
+    - name: Transfer Learning in Reinforcement Learning
+      link: "https://medium.com/@mauriciofadelargerich/transfer-learning-in-reinforcement-learning-45160ceb31c4"
+      details: |
+        A quick review of how transfer learning improves the performance of RL on new, unseen tasks by exploiting learnings from past tasks.
+
+    - name: 5 Websites to Download Pre-trained Machine Learning Models
+      link: "https://medium.com/towards-data-science/5-websites-to-download-pre-trained-machine-learning-models-6d136d58f4e7"
+      details: |
+        No need to train that machine learning model, just download a pre-trained one and let others do the heavy lifting!
+
+    - name: How to Explain Decision Trees’ Predictions
+      link: "https://medium.com/towards-data-science/how-to-explain-decision-trees-predictions-7a10834fe54d"
+      details: |
+        We develop an approach to explain why a learned tree model chooses a certain class for a given sample, providing examples in Python.
+        
     - name: Reinforcement Learning with TensorFlow Agents — Tutorial
       link: "https://towardsdatascience.com/reinforcement-learning-with-tensorflow-agents-tutorial-4ac7fa858728?source=friends_link&sk=a018b532d6678dc62e76ed2a7ba84a40"
       details: |
@@ -222,6 +246,10 @@ publications:
   display: true
   title: Publications at Conferences and Journals
   items:
+    - title: "VersaMatch: ontology matching with weak supervision"
+      authors: J. Fürst, M. Fadel Argerich, B. Cheng (2023)
+      conference: 49th Conference on Very Large Data Bases (VLDB), Vancouver, Canada, 28 August-1 September 2023
+      link: "https://digitalcollection.zhaw.ch/bitstream/11475/27771/3/2023_Fuerst-etal_VersaMatch-ontology-matching-with-weak-supervision.pdf"
     - title: "Tutor4RL: Guiding Reinforcement Learning with External Knowledge"
       authors: M. Fadel Argerich, J. Fürst, B. Cheng (2020)
       conference: AAAI Spring Symposium 2020 - Combining Machine Learning and Knowledge Engineering in Practice (AAAI-MAKE)
@@ -260,8 +288,8 @@ skills:
     + Probability & Statistics
     + Software engineering / development
     + Python
-    + Objective-C
-    + Java
+    + Pytorch
+    + HuggingFace
     + SQL
     + NoSQL
 
