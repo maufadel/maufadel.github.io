@@ -1,6 +1,6 @@
 intro:
   name: Mauricio Fadel Argerich
-  title: Research Scientist, AI for IoT | M.Sc. Data Scientist | Informations Systems Engineer
+  title: AI/ML Expert and Technology Innovator
   avatar:
     display: true
     path: profile.png
@@ -50,7 +50,7 @@ profile:
   display: True
   title: Profile
   details: |
-    With over 7 years of experience in both research and software engineering, I have strong expertise in the application of ML to optimize resource utilization and enhance the performance of Cloud and Edge Computing applications. I have actively participated in several EU-funded research projects as well as industrial projects, publishing their results in highly-esteemed AI and data events such as VLDB and AAAI Symposia.
+    With a solid background of 9+ years in AI/ML, software engineering, and tech leadership, I strive to improve businesses' use of AI/ML, increasing the performance of AI/ML solutions in terms of accuracy and scalability while reducing their costs. I have worked on diverse AI/ML projects including the use of LLMs for querying software documentation, analyzing application logs for anomaly detection, using weakly supervised learning for ontology matching, and customizing RL for the orchestration of distributed applications on the cloud and edge. Many of these projects have resulted in granted and registered patents in the US, Japan, and Europe with publications at top AI/ML and IoT conferences as well as production-ready systems. If you're currently working on AI/ML projects and need expert guidance, don't hesitate to reach out.
 
 education:
   display: true
@@ -76,13 +76,23 @@ experiences:
   display: true
   title: Work Experience
   items:
+    - role: Technology Strategy & Innovation Manager
+      time: February 2024 - Current
+      company: Telefonica Germany - O2
+      image: telefonica.png
+      location: Munich, Germany
+      details: |
+        I lead innovation initiatives by leveraging technologies such as AI/ML, edge and cloud computing, collaborating with cross-functional teams to deliver impactful solutions. 
+        
+        I advise directors and C-level executives on technology strategy and emerging trends to contribute to Telefonica's success.
+        
     - role: Applied Scientist
-      time: June 2021 - Current
+      time: June 2021 - January 2024
       company: German Edge Cloud
       image: gec.png
       location: Frankfurt, Germany
       details: |
-        I am currently developing an approach to monitor and optimize the energy consumption of ML-based applications to improve the sustainability of software on cloud and edge infrastructure.
+        I have developed an approach to monitor and optimize the energy consumption of ML-based applications to improve the sustainability of software on cloud and edge infrastructure.
         
         I have led the research and development of an approach for anomaly detection on applications' logs using Neural Temporal Point Processes and NLP to detect errors and diagnose their root causes. 
         
