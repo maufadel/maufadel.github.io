@@ -50,7 +50,11 @@ profile:
   display: True
   title: Profile
   details: |
-    With a solid background of 9+ years in AI/ML, software engineering, and tech leadership, I strive to improve businesses' use of AI/ML, increasing the performance of AI/ML solutions in terms of accuracy and scalability while reducing their costs. I have worked on diverse AI/ML projects including the use of LLMs for querying software documentation, analyzing application logs for anomaly detection, using weakly supervised learning for ontology matching, and customizing RL for the orchestration of distributed applications on the cloud and edge. Many of these projects have resulted in granted and registered patents in the US, Japan, and Europe with publications at top AI/ML and IoT conferences as well as production-ready systems. If you're currently working on AI/ML projects and need expert guidance, don't hesitate to reach out.
+    With a solid background of 9+ years in AI/ML, software engineering, and tech leadership, I strive to improve businesses' use of AI/ML, increasing the performance of AI/ML solutions in terms of accuracy and scalability while reducing their costs. 
+    
+    I have worked on diverse AI/ML projects including the use of LLMs for querying software documentation, analyzing application logs for anomaly detection, using weakly supervised learning for ontology matching, and customizing RL for the orchestration of distributed applications on the cloud and edge. Many of these projects have resulted in granted and registered patents in the US, Japan, and Europe with publications at top AI/ML and IoT conferences as well as production-ready systems. 
+    
+    If you're currently working on AI/ML projects and need expert guidance, don't hesitate to reach out.
 
 education:
   display: true
