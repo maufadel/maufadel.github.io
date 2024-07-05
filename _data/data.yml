@@ -158,7 +158,7 @@ experiences:
         Developed a novel algorithm capable of determining anchors in Tweets forautomatic link generation under the supervision of Prof. Gill Dobbie.
 
 projects:
-  display: true
+  display: false
   title: Personal Projects
   intro: |
     Some personal programming projects I have published on Github and Apple's iOS App Store.
@@ -186,11 +186,13 @@ projects:
 
 articles:
   display: true
-  title: Articles
-  intro: |
-    I often write on Medium about AI and in particular, Reinforcement Learning.
-
+  #intro:
+  title: Blog Articles
   items:
+    - name: How much energy do LLMs consume?
+      link: "https://medium.com/towards-data-science/how-much-energy-do-llms-consume-23c09fe3f545?sk=e6362ec55fc7ff0c40f0920e7250fc2a"
+      details: |
+        We use EnergyMeter, a Python tool, to measure the energy consumption of different LLMs including Llama, Dolly, and BLOOM.
     - name: Transfer Learning in Reinforcement Learning
       link: "https://medium.com/@mauriciofadelargerich/transfer-learning-in-reinforcement-learning-45160ceb31c4"
       details: |
