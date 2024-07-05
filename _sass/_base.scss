@@ -78,7 +78,7 @@ p {
 
             &:not(:last-child)::after {
                 content: "|";
-                margin: 0 .25em;
+                margin: $spacing-unit;
             }
         }
         
@@ -158,9 +158,9 @@ p {
     
     .nav-tabs {
       border-bottom: 2px solid #dee2e6;
-      overflow-x: auto; /* Enable horizontal scrolling */
+      //overflow-x: auto; /* Enable horizontal scrolling */
       white-space: nowrap; /* Prevent wrapping of tabs */
-      -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS devices */
+      //-webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS devices */
     }
     
     .nav-tabs .nav-item {
