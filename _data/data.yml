@@ -67,12 +67,12 @@ education:
       image: upm.png
     - university: Sapienza - Università di Roma
       time: 2016 - 2018
-      major: "M.Sc. Data Science. GPA: 110 cum laude."
+      major: "M.Sc. Data Science. Honors: 110/110 cum laude."
       degree: Rome, Italy
       image: sapienza.png
     - university: Universidad Tecnológica Nacional (Argentina)
       time: 2009 - 2014
-      major: "Information Systems Engineer. GPA: 7.98"
+      major: "Information Systems Engineer."
       degree: Córdoba, Argentina
       image: utn.png
 
@@ -260,6 +260,10 @@ publications:
   display: true
   title: Publications at Conferences and Journals
   items:
+    - title: "Measuring and Improving the Energy Efficiency of Large Language Models Inference"
+      authors: M. Fadel Argerich, M. Patiño-Martinez (2024)
+      conference: IEEE Access
+      link: "https://ieeexplore.ieee.org/iel8/6287639/6514899/10549890.pdf"
     - title: "VersaMatch: ontology matching with weak supervision"
       authors: J. Fürst, M. Fadel Argerich, B. Cheng (2023)
       conference: 49th Conference on Very Large Data Bases (VLDB), Vancouver, Canada, 28 August-1 September 2023

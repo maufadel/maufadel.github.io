@@ -35,10 +35,9 @@ p {
     padding: $spacing-unit * 2;
 
     .section-title {
-        text-transform: uppercase;
         font-size: $large-font-size;
-        font-weight: 700;
-        font-family: "Helvetica Neue", sans-serif;
+        font-weight: 400;
+        font-family: "Inter", sans-serif;
         color: $theme-color;
         position: relative;
         margin-top: 0;
@@ -54,7 +53,7 @@ p {
         font-size: $huge-font-size;
         font-weight: 900;
         margin-top: 0;
-        font-family: "Helvetica Neue", sans-serif;
+        font-family: "Inter", sans-serif;
         margin-bottom: $spacing-unit / 4;
     }
 
@@ -86,11 +85,13 @@ p {
     }
 
     .avatar {
-        float: right;
-        max-width: 100px;
+        float: left;
+        max-width: 110px;
         margin-bottom: $spacing-unit;
         border: 0px solid $wrapper-color;
+        border-radius: 50%;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+        margin-right: $spacing-unit;
     }
     
     .logo {
@@ -151,6 +152,13 @@ p {
             }
         }
     }
+    
+    .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+      color: #495057;
+      background-color: #fff;
+      border-color: #dee2e6 #dee2e6 #fff;
+      font-weight: bold;
+    }
 
     .pub-title, .project-name {
         color: $text-color;
@@ -160,6 +168,12 @@ p {
     .pub-authors {
         font-style: italic;
         margin-bottom: 1px;
+    }
+    
+    .tab-content > .tab-pane {
+      padding: 20px;
+      border: 1px solid #dee2e6;
+      border-top: none;
     }
 }
 
