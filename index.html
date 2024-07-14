@@ -12,13 +12,13 @@ layout: default
     </br>
 
     <!-- Tabs Navigation -->
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
+    <ul class="nav nav-tabs d-flex flex-nowrap" style="overflow-x: auto;" id="myTab" role="tablist">
       <li class="nav-item" role="presentation">
         <a class="nav-link active" id="profile-tab" data-bs-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="true">Intro</a>
       </li>
       {% if data.experiences.display %}
       <li class="nav-item" role="presentation">
-        <a class="nav-link" id="experiences-tab" data-bs-toggle="tab" href="#experiences" role="tab" aria-controls="experiences" aria-selected="false">Professional Experience</a>
+        <a class="nav-link" id="experiences-tab" data-bs-toggle="tab" href="#experiences" role="tab" aria-controls="experiences" aria-selected="false">Prof. Experience</a>
       </li>
       {% endif %}
       {% if data.skills.display or data.education.display %}
@@ -38,7 +38,7 @@ layout: default
       {% endif %}
       {% if data.articles.display %}
       <li class="nav-item" role="presentation">
-        <a class="nav-link" id="articles-tab" data-bs-toggle="tab" href="#articles" role="tab" aria-controls="articles" aria-selected="false">Blog Articles</a>
+        <a class="nav-link" id="articles-tab" data-bs-toggle="tab" href="#articles" role="tab" aria-controls="articles" aria-selected="false">Blog</a>
       </li>
       {% endif %}
       {% if data.interests.display %}
@@ -49,6 +49,11 @@ layout: default
       {% if data.evaluation.display %}
       <li class="nav-item" role="presentation">
         <a class="nav-link" id="evaluation-tab" data-bs-toggle="tab" href="#evaluation" role="tab" aria-controls="evaluation" aria-selected="false">Evaluation</a>
+      </li>
+      {% endif %}
+      {% if data.events.display %}
+      <li class="nav-item" role="presentation">
+        <a class="nav-link" id="events-tab" data-bs-toggle="tab" href="#events" role="tab" aria-controls="events" aria-selected="false">Events</a>
       </li>
       {% endif %}
     </ul>
@@ -82,6 +87,9 @@ layout: default
       </div>
       <div class="tab-pane fade" id="evaluation" role="tabpanel" aria-labelledby="evaluation-tab">
         {% include evaluation.html %}
+      </div>
+      <div class="tab-pane fade" id="events" role="tabpanel" aria-labelledby="events-tab">
+        {% include events.html %}
       </div>
     </div>
 
