@@ -16,6 +16,19 @@
 
     {% for event in events.items %}
     <div class="item">
+    
+    	 <ul class="list-unstyled contact-list d-flex justify-content-center justify-content-md-start">
+        	{% if event.video %}
+        	<li><a href="{{ event.video }}" target="_blank"><i class="fa-solid fa-video"></i></a></li>
+        	{% endif %}
+        	{% if event.slides %}
+        	<li><a href="{{ event.slides }}" target="_blank"><i class="fa-brands fa-slideshare"></i></a></li>
+        	{% endif %}
+        	{% if event.pdf %}
+        	<li><a href="{{ event.pdf }}" target="_blank"><i class="fa-solid fa-file"></i></a></li>
+        	{% endif %}
+        </ul>
+    
         {% if event.title %}
         <p class="pub-title">
             {% if event.link %}
@@ -30,27 +43,18 @@
         {% endif %}
 
         {% if event.conference %}
-        <div class="event-conference">{{ event.conference }}</div>
+        <div class="role">{{ event.conference }}</div>
         {% endif %}
         {% endif %}
         
-        <ul class="list-unstyled contact-list d-flex justify-content-center justify-content-md-start">
-        	{% if event.video %}
-        	<li><a href="{{ event.video }}" target="_blank"><i class="fa-solid fa-video"></i></a></li>
-        	{% endif %}
-        	{% if event.slides %}
-        	<li><a href="{{ event.slides }}" target="_blank"><i class="fa-brands fa-slideshare"></i></a></li>
-        	{% endif %}
-        	{% if event.pdf %}
-        	<li><a href="{{ event.pdf }}" target="_blank"><i class="fa-solid fa-file"></i></a></li>
-        	{% endif %}
-        </ul>
-        
-        {% if event.description %}
+        <!--{% if event.description %}
         <div class="details">
             {{ event.description | markdownify }}
         </div>
         {% endif %}
+        -->
+        
+        <br/>
     </div>
     {% endfor %}
 
