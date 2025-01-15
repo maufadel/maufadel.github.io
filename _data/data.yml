@@ -81,6 +81,13 @@ events:
   display: true
   title: Events and Presentations
   items:
+    - title: "An introduction to Large Language Models and their biases"
+      conference: "Guest Lecturer in the study programme of the BA Übersetzungswissenschaft at the Heidelberg University on 15.01.2025."
+      link: 
+      pdf: 
+      slides: "./assets/files/slides_AnIntroToLLMsBiases.pdf"
+      video: 
+      description: "Introduction to ML, Large Language Models (LLMs,) and their limitations, focusing on biases we can see on the main commercial LLMs such as ChatGPT, Copilot, and Gemini. The goal of this lecture is to warn the students of translation about common errors and biases of LLMs' outputs, so they make use of these tools knowing their strengths and weaknesses, as well as to spark their curiosity on computational linguistic models."
     - title: "Cloud-Edge Continuum"
       conference: "Guest Lecturer in the study programme of Systems Engineering at Zurich University of Applied Sciences (ZHAW) on 05.04.2023."
       link: 
