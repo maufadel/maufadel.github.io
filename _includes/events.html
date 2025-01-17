@@ -45,6 +45,9 @@
         {% if event.conference %}
         <div class="role">{{ event.conference }}</div>
         {% endif %}
+        {% if event.description %}
+        <div class="role">{{ event.description }}</div>
+        {% endif %}
         {% endif %}
         
         <!--{% if event.description %}

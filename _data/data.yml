@@ -81,42 +81,42 @@ events:
   display: true
   title: Events and Presentations
   items:
-    - title: "An introduction to Large Language Models and their biases"
+    - title: "An introduction to Large Language Models and their biases (Guest Lecture)"
       conference: "Guest Lecturer in the study programme of the Bachelor of Arts in  Übersetzungswissenschaft at the Heidelberg University on 15.01.2025."
       link: 
       pdf: 
       slides: "./assets/files/slides_AnIntroToLLMsBiases.pdf"
       video: 
       description: "Introduction to ML, Large Language Models (LLMs,) and their limitations, focusing on biases we can see on the main commercial LLMs such as ChatGPT, Copilot, and Gemini. The goal of this lecture is to warn the students of translation about common errors and biases of LLMs' outputs, so they make use of these tools knowing their strengths and weaknesses, as well as to spark their curiosity on computational linguistic models."
-    - title: "Cloud-Edge Continuum"
+    - title: "Cloud-Edge Continuum (Guest Lecture)"
       conference: "Guest Lecturer in the study programme of the Bachelor's degree in Systems Engineering at Zurich University of Applied Sciences (ZHAW) on 05.04.2023."
       link: 
       pdf: 
       slides: "./assets/files/slides_CloudEdgeContinuum.pdf"
       video: 
       description: "Introduction to cloud and edge computing paradigms, overview of research challenges in the cloud-edge continuum."
-    - title: "The Energy Efficiency of our Code [ESP: La Eficiencia Energética de Nuestro Código]"
+    - title: "The Energy Efficiency of our Code [ESP: La Eficiencia Energética de Nuestro Código] (Seminar Presentation)"
       conference: "Seminario Internacional de Investigación en Ingeniería de Software (SeIIIS) 2022"
       link: 
       pdf: 
       slides: "./assets/files/slides_SEIIIS.pdf"
       video: 
       description: "Why is the energy efficiency of software important? How can we improve it? [Presentation in Spanish.]"
-    - title: "Challenges and Opportunities in Machine Learning [ESP: Desafíos y Oportunidades en Machine Learning]"
+    - title: "Challenges and Opportunities in Machine Learning [ESP: Desafíos y Oportunidades en Machine Learning] (Presentation)"
       conference: "Presentation organized by the Department of Information Systems Engineering, in conjunction with the Secretary of Student Affairs (SAE) and the Technological Student Center (CET) of the Technological University of Argentina (UTN)."
       link: 
       pdf: 
       slides: "./assets/files/slides_Desafios_y_oportunidades_ML.pdf"
       video: "https://www.youtube.com/live/FqkOxCzrzdM?si=YBVLDIdXRvChlfNw"
       description: "Overview of AI, ML, and Data Science and the research and industrial challenges of applying AI and ML. [Presentation in Spanish.]"
-    - title: "Applying Weak Supervision to Mobile Sensor Data: Experiences with Transport  Mode Detection."
+    - title: "Applying Weak Supervision to Mobile Sensor Data: Experiences with Transport  Mode Detection (Paper Presentation)"
       conference: "AIoT Workshop @ AAAI"
       link: 
       pdf: "https://aiotworkshop.github.io/2020/published/AIoT20-ModeDetect.pdf"
       slides: "https://www.jofu.org/publication/furst-2020-transport/slides.pdf"
       video: 
       description: "Presentation of the paper: Fürst, J., Argerich, M. F., Shankari, K., Solmaz, G., & Cheng, B. (2020, February). Applying Weak Supervision to Mobile Sensor Data: Experiences with TransportMode Detection. In AAAI Workshop."
-    - title: "Reinforcement learning based orchestration for elastic services"
+    - title: "Reinforcement learning based orchestration for elastic services (Paper Presentation)"
       conference: "IEEE 5th World Forum on Internet of Things (WF-IoT) 2019. Limerick, Ireland."
       link: 
       pdf: "https://arxiv.org/pdf/1904.12676"
