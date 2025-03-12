@@ -138,13 +138,13 @@ experiences:
         
         Experience highlights: 
         
-        I've deployed an R&D edge node for Telefonica O2's Innovation Area, leading a team of managers and engineers from the departments of tech (e.g., Cloud & Edge Platforms, Networks, Access & Transport) and external vendors, including the onboarding of AR/VR and AI applications.
+        - I've deployed an R&D edge node for Telefonica O2's Innovation Area, leading a team of managers and engineers from the departments of tech (e.g., Cloud & Edge Platforms, Networks, Access & Transport) and external vendors, including the onboarding of AR/VR and AI applications.
         
-        I've led the development of the sustainability strategy for Telefonica O2's Tech ecosystem in a team including directors, managers, and experts from Tech and Corporate Responsibility while coordinating with Telefonica Global.
+        - I've led the development of the sustainability strategy for Telefonica O2's Tech ecosystem in a team including directors, managers, and experts from Tech and Corporate Responsibility while coordinating with Telefonica Global.
         
-        I've contributed to identifying research funding calls and writing proposals, aligning them to Telefonica O2's goals and organizational structure.
+        - I've contributed to identifying research funding calls and writing proposals, aligning them to Telefonica O2's goals and organizational structure.
         
-        I've advised executives on technology strategy and emerging trends including LLMs, edge AI, AR/VR and more, to contribute to Telefonica's success.
+        - I've advised executives on technology strategy and emerging trends including LLMs, edge AI, AR/VR and more, to contribute to Telefonica's success.
         
     - role: Applied Scientist
       time: June 2021 - January 2024
@@ -152,11 +152,11 @@ experiences:
       image: gec.png
       location: Frankfurt, Germany
       details: |
-        I led an internal project with a small team of researchers to design and implement a method and system to analyze applications' logs using Neural Temporal Point Processes and NLP to detect errors and diagnose their root causes. This method is patent pending in Germany and the US (DE102022131127A1, US20240176692A1).
+        - I led an internal project with a small team of researchers to design and implement a method and system to analyze applications' logs using Neural Temporal Point Processes and NLP to detect errors and diagnose their root causes. This method is patent pending in Germany and the US (DE102022131127A1, US20240176692A1).
         
-        I have developed an approach to monitor and profile the energy consumption of ML models, applying it mainly to optimize the efficiency of LLMs.
+        - I have developed an approach to monitor and profile the energy consumption of ML models, applying it mainly to optimize the efficiency of LLMs.
         
-        I led the definition and implementation of a patenting process for GEC's IP, contributing with tech managers and the company's CTO.
+        - I led the definition and implementation of a patenting process for GEC's IP, contributing with tech managers and the company's CTO.
 
     - role: Research Scientist, AI/ML for IoT
       time: March 2018 - May 2021
@@ -165,9 +165,9 @@ experiences:
       image: nec.png
       location: Heidelberg, Germany
       details: |
-        I've served as the Project Manager for the “Model Learning for Cloud-Edge Digital Twins” project funded by the EU and led NEC's contribution to the Horizon EU project BigDataStack.
+        - I've served as the Project Manager for the “Model Learning for Cloud-Edge Digital Twins” project funded by the EU and led NEC's contribution to the Horizon EU project BigDataStack.
         
-        I have developed a novel approach for using reinforcement learning to automate the configuration and adaptation of data-driven applications. This work has been recognized by the EU Innovation Radar and has resulted in three published papers and two granted patents in the US and EU (US11809977B2, US20210357767A1)
+        - I have developed a novel approach for using reinforcement learning to automate the configuration and adaptation of data-driven applications. This work has been recognized by the EU Innovation Radar and has resulted in three published papers and two granted patents in the US and EU (US11809977B2, US20210357767A1)
         
         Previous roles at NEC: Research Associate (October 2018 - June 2020) and Research Intern (March 2018 - September 2018).
       
@@ -185,11 +185,11 @@ experiences:
       location: Córdoba, Argentina
       image: bizit.png
       details: |
-        I've developed new features and contributed to the improvement of different VoIP iOS apps of Media5 Corp.
+        - I've developed new features and contributed to the improvement of different VoIP iOS apps of Media5 Corp.
         
-        Testing software to identify and fix problems for Media5 Corp. projects.
+        - Testing software to identify and fix problems for Media5 Corp. projects.
         
-        Documenting new features as well as maintaining the existing documentation.
+        - Documenting new features as well as maintaining the existing documentation.
         
     - role: Software Developer Intern
       time: November 2013 - November 2014
@@ -197,11 +197,11 @@ experiences:
       location: Córdoba, Argentina
       image: fadea.png
       details: |
-        I designed, implementated, tested, and led user's training and issue fixing for the Corrective Action Requests System.
+        - I designed, implementated, tested, and led user's training and issue fixing for the Corrective Action Requests System.
         
-        Implementation of SyncroDB System (to keep data consistency throughout different DBMS). 
+        - Implementation of SyncroDB System (to keep data consistency throughout different DBMS). 
         
-        Design, implementation and testing of the Personnel Attendance System.
+        - Design, implementation and testing of the Personnel Attendance System.
 
     - role: Research Student
       time: January 2013 - March 2013
